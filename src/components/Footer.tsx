@@ -40,6 +40,7 @@ const Footer: React.FC = () => {
                 <Linkedin size={20} />
               </a>
               <a href="https://www.instagram.com/edhub_360/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-[#BEA260] transition-colors" aria-label="Instagram">
+                <Instagram size={20} />
               </a>
             </div>
           </div>
